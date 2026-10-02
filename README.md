@@ -1,4 +1,4 @@
-## Hi there 👋
+## Well hello there~👋
 
 - 🔭 I’m currently working on a possible "Sit-and-Survive" game
 - 🌱 I’m currently learning coding
